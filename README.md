@@ -1,4 +1,4 @@
-👋 Hi! I'm TheKaVu and I mostly do java stuff nowadays. I work around **spigot** and **minecraft** plugin development. 
+👋 Hi! I'm TheKaVu and I mostly do Java stuff nowadays. I work around **spigot** and **minecraft** plugin development. 
 
 Even though I don't have many repositories published and my join date is relatively early I do have some decent amounts of experience in coding (*3+ years*), 
 mainly in objective one. Nevertheless I'm still learning. If it comes to github I'm getting in quickly, but surely I still lack some knowledge.
