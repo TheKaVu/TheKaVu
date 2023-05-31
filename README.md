@@ -6,6 +6,8 @@ mainly in objective one. Nevertheless I'm still learning. If it comes to github 
 I am an opened person! If you are looking for any companion or coding geek I can assure you that I am definitely one! If you need a homie to colaborate with
 and do some nasty coding - I am waiting.
 
+My discord: KaVu#2538
+
 I communicate in:
 - 🇵🇱 Polish (*Native*)
 - 🇬🇧 English (*B2+*)
