@@ -1,16 +1,15 @@
-👋 Hi! I'm TheKaVu and I mostly do Java stuff nowadays. I work around **spigot** and **minecraft** plugin development. 
+👋 Hi! I'm TheKaVu and I am an aspiring C# developer. As for now I've been writing games (rather bits of games) which although unfinished, have a good-quality code.
 
-Even though I don't have many repositories published and my join date is relatively early I do have some decent amounts of experience in coding (*3+ years*), 
-mainly in objective one. Nevertheless I'm still learning. If it comes to github I'm getting in quickly, but surely I still lack some knowledge.
+Even though I don't have many repositories published I do have some decent amount of experience in coding (*5 years*), 
+mainly in objective one.
 
-I am an opened person! If you are looking for any companion or coding geek I can assure you that I am definitely one! If you need a homie to colaborate with
-and do some nasty coding - I am waiting.
+My discord: KaVu#thekavu
 
-My discord: KaVu#2538
+Main languages:
+- C# semi-advanced
+- Java intermediate
+- SQL intermediate
 
 I communicate in:
 - 🇵🇱 Polish (*Native*)
-- 🇬🇧 English (*B2+*)
-
----
-👉 Currently I'm working on: **[GameAPI](https://github.com/TheKaVu/GameAPI)**
+- 🇬🇧 English (*C1* certificated)
